@@ -1,0 +1,15 @@
+.header, .hero, .body, .bar, .footer{
+	background-color: grey;
+	margin-bottom: 10px;
+
+}
+
+.box{
+	min-height: 80px;
+	background-color: pink;
+	margin-bottom: 5px;
+
+}
+.skyblue{
+	background-color: skyblue;
+}
